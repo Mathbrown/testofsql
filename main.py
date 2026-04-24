@@ -41,4 +41,4 @@ while(True):
         print("Operador não aceito")
         continue
 
-    print(f"Resultado do calculo: {val_re} \n\n\n\n")
+    print(f"Resultado do calculo: {val_re} \n\n\n\n\n")
